@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Profile !
 
-<!--
-**tshamala-pathy/tshamala-pathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Title:
+- Software Engineer
 
-Here are some ideas to get you started:
+## Summary:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about creating robust software solutions with a keen interest in open-source projects. 
+Experienced in Python language, Django framework, and HyperText Markup Language(HTML). 
+Strong problem-solving skills and a commitment to continuous learning. Currently based in South Africa.
+
+## Skills
+
+- Programming Languages: Python
+- Web Technologies: HTML, CSS, React
+- ...
+
+## Contact
+
+- 🌐 Portfolio: https://tshamala-pathy.github.io/Personal/
+- 📧 Email: pathypatico999@gmail.com
+- ...
+

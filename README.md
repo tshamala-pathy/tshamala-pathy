@@ -1,4 +1,5 @@
 # Welcome to My GitHub Profile !
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshamala-pathy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Title:
 - Software Engineer
@@ -8,7 +9,6 @@
 Passionate about creating robust software solutions with a keen interest in open-source projects. 
 Experienced in Python language, Django framework, and HyperText Markup Language(HTML). 
 Strong problem-solving skills and a commitment to continuous learning. Currently based in South Africa/Cape Town.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshamala-pathy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 

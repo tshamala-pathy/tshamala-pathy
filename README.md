@@ -24,5 +24,7 @@ Strong problem-solving skills and a commitment to continuous learning. Currently
 - 🌐 Portfolio: https://www.hyperiondev.com/portfolio/164229/
 - 📧 Email: pathypatico999@gmail.com
 - ☎️ Phone: +27 812117770
-- 
+- 🔗 LinkedIn: https://www.linkedin.com/in/tshamala-pathy-ntambua-815b13288/
+- 🐦 Twitter: Twitter Profile
+- 🌍 Personal Website: https://tshamala-pathy.github.io/Personal/
 

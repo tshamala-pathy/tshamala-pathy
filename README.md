@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Content-Curation](https://github.com/tshamala-pathy/Content-Curation.git)
 
-- 📖 I recently completed an [AWS Cloud Computing](https://aws.amazon.com/) course from June 2022 to January 2023, gaining skills in cloud architecture, services, and deployment strategies.
+- 📖 I currently working on an [AWS Cloud Computing](https://aws.amazon.com/) course, gaining skills in cloud architecture, services, and deployment strategies.
 
 - 📫 How to reach me **📧 Email: pathypatico999@gmail.com OR +27 677217746**
 
